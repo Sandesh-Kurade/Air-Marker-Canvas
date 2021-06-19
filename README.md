@@ -18,4 +18,9 @@ Here Colour Detection and tracking is used in order to achieve the objective. Th
 
 Requirements: python3 , numpy , opencv installed on your system.
 
+# How to run
+
+1.Download the file.
+2.Run the air-pen.py file.
+
 
